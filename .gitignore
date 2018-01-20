@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/Eventos.IO.Domain/bin/Debug/netcoreapp1.1
+/src/Eventos.IO.Domain/obj
+/src/Eventos.IO.Domain.Core/obj
+/src/Eventos.IO.Domain.Core/bin/Debug/netstandard1.6
+/tests/ConsoleApp1/bin/Debug/netcoreapp1.1
+/tests/ConsoleApp1/obj
+/tests/ConsoleApp2/bin/Debug
+/tests/ConsoleApp2/obj/Debug
+/tests/ConsoleTesting/bin/Debug/netcoreapp1.1
+/tests/ConsoleTesting/obj
