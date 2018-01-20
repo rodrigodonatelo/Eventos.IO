@@ -1,2 +1,2 @@
 # Eventos.IO
-Plataforma deeventos
+Plataforma de eventos
